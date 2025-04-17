@@ -1,0 +1,8 @@
+streamlit
+sec-edgar-downloader
+pandas
+matplotlib
+seaborn
+numpy
+beautifulsoup4
+
